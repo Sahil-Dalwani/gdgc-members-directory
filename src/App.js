@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Search, Moon, Sun, Users, MapPin, Loader2, AlertCircle } from 'lucide-react';
 
 // API Configuration
-const API_BASE_URL = 'https://backend-8u5mz2smy-sahil-dalwanis-projects.vercel.app';
+const API_BASE_URL = 'https://gdgc-members-directory-backend.vercel.app';
 
 // API Functions
 const fetchMembers = async () => {
